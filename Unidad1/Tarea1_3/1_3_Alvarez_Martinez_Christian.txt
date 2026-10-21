@@ -1,0 +1,29 @@
+### 1. Resumen general del perfil
+El perfil de *El País* en Bluesky opera como un canal informativo continuo de un medio generalista de alcance global y foco en España. Su actividad combina noticias de última hora con contenidos de análisis, columnas de opinión y formatos propios (podcasts, directos y resúmenes). La cuenta equilibra la cobertura de la actualidad política e institucional con temas sociales, sucesos, tecnología y cultura pop.
+
+---
+
+### 2. Temas principales
+1. **Política nacional española y judicial:** Declaraciones y estrategias de partidos (PSOE, PP, Vox), fallos del Tribunal Constitucional, la ley de nietos, la visita de Javier Milei y casos de corrupción o tribunales.
+2. **Sucesos y crónica negra:** Crímenes machistas en Madrid, detenciones por homicidio (como la anciana en Burgos o el policía belga en Almería) y fraudes de consumo (Booking).
+3. **Geopolítica y política internacional:** Actos y declaraciones de líderes como Donald Trump o Giorgia Meloni, tensiones militares/espaciales con Rusia, crisis políticas europeas y el conflicto en Gaza.
+4. **Cultura, entretenimiento y celebridades:** Entrevistas y declaraciones de figuras públicas (Arturo Pérez-Reverte, Hunter Schafer, Selena Gómez, Jesse Eisenberg) y temas televisivos (*La revuelta*).
+5. **Opinión y análisis editorial:** Columnas de opinión firmadas (Manuel Jabois, Sergio del Molino), editoriales sobre el impacto de las redes sociales y debates sobre la polarización política.
+
+---
+
+### 3. Tono y estilo de comunicación
+* **Tono:** Principalmente periodístico, formal e informativo. En columnas y temas de sociedad adopta un matiz más narrativo, analítico o testimonial.
+* **Estilo:** Estructurado mediante etiquetas de apertura para jerarquizar contenidos (*ÚLTIMA HORA |*, *Columna |*, *Editorial |*, *DIRECTO |*). Recurre frecuentemente a citas textuales directas entrecomilladas para dar voz a protagonistas y enlaces truncados hacia las coberturas completas.
+
+---
+
+### 4. Sentimiento general
+**Neutro con sesgo negativo.**
+* **Justificación:** La mayor parte de las publicaciones abordan sucesos trágicos (asesinatos, crímenes machistas, desastres por inundaciones de la DANA), tensiones y hostilidades políticas (confrontación partidista, discursos de odio en redes), así como alertas ecológicas o sanitarias. Las notas neutras corresponden a noticias institucionales y los elementos positivos son escasos y marginales (solidaridad vecinal o anuncios de acuerdos salariales).
+
+---
+
+### 5. Conclusiones
+* **Audiencia:** Ciudadanos de España y del ámbito hispanohablante interesados en la política contemporánea, el debate social, la actualidad internacional y la cultura. Es un público que busca consumo rápido de noticias de última hora, pero también piezas de opinión fundamentadas.
+* **Objetivo:** Establecer la relevancia y autoridad de la cabecera en Bluesky, servir de altavoz para sus periodistas y firmas clave, y dirigir tráfico recurrente hacia su plataforma web, sus directos y sus contenidos multimedia.
