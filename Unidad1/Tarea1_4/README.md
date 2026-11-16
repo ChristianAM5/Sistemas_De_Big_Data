@@ -20,7 +20,7 @@ Proyecto académico (Sistemas de Big Data, Unidad 1, Tarea 1.4) que transforma u
 ## Requisitos previos
 
 - uv instalado
-- Tesseract OCR instalado en el sistema (en Windows, desde el instalador de UB-Mannheim) y anotada su ruta de instalación
+- Tesseract OCR instalado en el sistema (en Windows, desde el instalador de UB-Mannheim; en macOS `brew install tesseract`; en Linux `sudo apt install tesseract-ocr`) y anotada su ruta de instalación
 
 ## Instalación y configuración
 
@@ -33,7 +33,15 @@ Proyecto académico (Sistemas de Big Data, Unidad 1, Tarea 1.4) que transforma u
    ```bash
    uv sync
    ```
-3. En el script, ajusta la constante `RUTA_TESSERACT` a la ruta de tu instalación de Tesseract (por ejemplo, `D:\Tesseract\tesseract.exe`).
+3. Abre el script y modifica estas constantes del bloque `Configuración`, al principio del archivo:
+
+   | Constante | Qué hay que cambiar |
+   |---|---|
+   | `RUTA_TESSERACT` | Ruta del ejecutable de Tesseract en tu equipo (por ejemplo, `C:\Program Files\Tesseract-OCR\tesseract.exe` en Windows o `/usr/bin/tesseract` en Linux). |
+   | `IMAGEN` | Nombre de la imagen a analizar. Debe estar en la **misma carpeta que el script**. |
+   | `NOMBRE_BASE` | Nombre que se usará para el archivo de salida (`<NOMBRE_BASE>.csv`). |
+
+   Si cambias de imagen, ten en cuenta que las coordenadas de las zonas (`ZONAS`) están ajustadas a la carta incluida; consulta el apartado de limitaciones.
 
 ## Guía de uso
 
@@ -108,4 +116,4 @@ Christian Álvarez Martínez
 
 ## Licencia
 
-Distribuido bajo la licencia MIT.
+Distribuido bajo la licencia [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html). Consulta el archivo `LICENSE` para más información.
